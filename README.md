@@ -71,7 +71,8 @@ The API is suitable for **portfolio projects, small websites, and learning FastA
 ---
 
 # 📄 License
-This project is created for educational and portfolio purposes only.
-You may reuse the code for learning or personal non-commercial projects.
-Commercial use by third parties is not allowed.
-Credit to the author is appreciated when publishing or sharing.
+This project is provided for educational and archival purposes only.
+- Status: Deprecated (Legacy Version).
+- You may reuse the code for learning or personal non-commercial projects.
+- Commercial use by third parties is not allowed.
+- Credit to the author is appreciated when publishing or sharing.
